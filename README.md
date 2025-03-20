@@ -36,7 +36,7 @@ FinPro is a comprehensive financial management application designed to help user
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/finpro.git
+   git clone https://github.com/Sundramroy23/finpro.git
    ```
 2. Navigate to the project directory:
    ```sh
